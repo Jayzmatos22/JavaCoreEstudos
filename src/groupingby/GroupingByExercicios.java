@@ -56,5 +56,7 @@ public class GroupingByExercicios {
                     return "barato";
                 }, Collectors.counting()));
         System.out.println("Por faixa: " + porFaixa);
+
+
     }
 }
