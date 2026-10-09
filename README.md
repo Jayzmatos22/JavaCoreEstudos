@@ -9,11 +9,14 @@ organizados por assunto. Java 21, sem build tool.
 | `streams` | Produto mais barato com estoque | `ProdutoMaisBarato` |
 | `streams` | Todos os empatados no preço mínimo | `EmpatadosNoMenorPreco` |
 | `groupingby` | Série completa de groupingBy + downstream | `GroupingByExercicios` |
+| `groupingby` | groupingBy com usuários/bancos: joining, summarizing, filtering, dois níveis | `GroupingByUsuarios` |
+| `collectors` | Média isolada vs summarizingDouble | `EstatisticasSaldo` |
+| `enums` | Consultas sobre enum: busca por código, ordenação, índice com toMap | `BancoConsultas` |
 | `map` | Série completa de HashMap | `HashMapExercicios` |
 | `equalshashcode` | Contrato equals/hashCode quebrado de propósito | `ContratoQuebrado` |
 | `sorted` | Série completa de sorted | `SortedExercicios` |
 | `excecoes` | Busca que lança, causa, try-with-resources, fail fast | `ExcecoesExercicios` |
-| `modelo` | `Produto` e a massa de dados compartilhada | — |
+| `modelo` | `Produto`, `Usuario`, `BancoEnum` e as massas de dados compartilhadas | — |
 
 ## Rodando
 
