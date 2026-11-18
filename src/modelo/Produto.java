@@ -43,6 +43,7 @@ public class Produto {
                 new Produto("Headset", 150.0, 12),
                 new Produto("Cadeira", 1200.0, 3),
                 new Produto("Webcam", 350.0, 8),
+                new Produto("caneta", 3.0, 3),
                 new Produto("Pendrive", 45.0, 30),
                 new Produto("Cabo HDMI", 45.0, 0)
         );
